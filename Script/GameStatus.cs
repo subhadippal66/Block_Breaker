@@ -42,6 +42,8 @@ public class GameStatus : MonoBehaviour
         currentScore = currentScore + perblockScore;
         score.text = currentScore.ToString();
        
+
+
     }
 
     public void AddToScore_1()
